@@ -1,9 +1,7 @@
 # Kernel-Modules-Manipulation
 
 Step 1: Make- Making the kernel Module
-
-<br><br>
-
+<br>
 Step 2:
 <br>1)	lsmod- List Modules that Loaded Already
 <br>2)	insmod- Insert Module into Kernel
